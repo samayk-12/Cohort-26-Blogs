@@ -22,13 +22,13 @@
   https://samay-networking.hashnode.dev/a-guide-to-networking-devices
 
 - **TCP vs UDP: When to Use What, and How TCP Relates to HTTP**  
-  _(link coming soon)_
+  https://samay-networking.hashnode.dev/tcp-vs-udp-with-http
 
 - **TCP Working: 3-Way Handshake & Reliable Communication**  
   _(link coming soon)_
 
 - **How a Browser Works: A Beginner-Friendly Guide to Browser Internals**  
-  _(link coming soon)_
+  https://blog-samay.hashnode.dev/browser-internals-beyond-web-surfing
 
 - **Understanding HTML Tags and Elements**  
   _(link coming soon)_
