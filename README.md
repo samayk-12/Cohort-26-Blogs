@@ -25,13 +25,13 @@
   https://samay-networking.hashnode.dev/tcp-vs-udp-with-http
 
 - **TCP Working: 3-Way Handshake & Reliable Communication**  
-  _(link coming soon)_
+ https://blog-samay.hashnode.dev/tcp-explained
 
 - **How a Browser Works: A Beginner-Friendly Guide to Browser Internals**  
   https://blog-samay.hashnode.dev/browser-internals-beyond-web-surfing
 
 - **Understanding HTML Tags and Elements**  
-  _(link coming soon)_
+ https://samay-version-control.hashnode.dev/html-at-a-high-level
 
 - **CSS Selectors 101: Targeting Elements with Precision**  
   _(link coming soon)_
