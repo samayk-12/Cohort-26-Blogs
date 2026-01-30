@@ -34,7 +34,7 @@
  https://samay-version-control.hashnode.dev/html-at-a-high-level
 
 - **CSS Selectors 101: Targeting Elements with Precision**  
-  _(link coming soon)_
+  https://blog-samay.hashnode.dev/css-selectors-101
 
 - **Emmet for HTML: A Beginner’s Guide to Writing Faster Markup**  
-  _(link coming soon)_
+  https://blog-samay.hashnode.dev/write-html-blazingly-fast-with-emmet
